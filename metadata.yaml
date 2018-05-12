@@ -1,0 +1,34 @@
+_repo: Buchanan-s-Journal-of-Man-September-1887Volume-1-Number-8_27703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Buchanan, Joseph R. (Joseph Rodes)
+    aliases:
+    - Buchanan, J. R.
+    - Buchanan, Joseph Rodes
+    birthdate: 1814
+    deathdate: 1899
+    gutenberg_agent_id: '25273'
+    url: http://www.gutenberg.org/2009/agents/25273
+description: ''
+gutenberg_bookshelf: Buchanan's Journal of Man
+gutenberg_issued: '2009-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Periodicals'
+- !lcsh 'Phrenology -- Periodicals'
+- !lcsh 'Medicine -- Periodicals'
+- !lcc 'BF'
+title: 'Buchanan''s Journal of Man, September 1887
+
+  Volume 1, Number 8'
+url: http://www.gutenberg.org/ebooks/27703
